@@ -1,0 +1,54 @@
+#menu ul {
+    padding:0px;
+    margin:0px;
+    background-color:#EDEDED;
+    list-style:none;
+}
+#menu ul li { display: inline; }
+
+#menu ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+    background-color:#EDEDED;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+
+#menu ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #333;
+}
+
+.foto-perfil {
+    border-radius: 50%;
+
+    {
+    font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.paragrafoBrancos {
+    color: white;
+}
+
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+p {
+    color: black;
+}
+
+.corPrimaria {
+    background-color: #7c7c7c;
+}
+
+.itemMenu {
+    color: white;
+}
